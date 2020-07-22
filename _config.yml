@@ -1,0 +1,29 @@
+title: Diversity in Tech
+description: >
+  LEARN the language of shared experience. 
+  DISCOVER what guided them to making a difference.
+  FEEL represented, understood, alike.
+minima:
+  social_links:
+    twitter: diverseintech
+    email: contact@diversityin.tech
+author:
+  email: contact@diversityin.tech
+url: "https://diversityin.tech"
+twitter_username: diverseintech
+google_analytics: our-GA-key #TODO!
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

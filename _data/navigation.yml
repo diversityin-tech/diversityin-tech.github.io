@@ -1,0 +1,8 @@
+- name: Podcast
+  link: /
+- name: Episodes
+  link: /podcast.html
+- name: Words
+  link: /words.html
+- name: About
+  link: /about.html 
