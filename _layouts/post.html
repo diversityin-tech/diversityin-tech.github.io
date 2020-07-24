@@ -32,9 +32,11 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    {%- if page.word -%}
     <h2>
       #{{ page.word }}
     </h2>
+    {%- endif -%}
   </div>
 
   {%- if site.disqus.shortname -%}

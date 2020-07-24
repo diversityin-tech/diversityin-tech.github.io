@@ -11,7 +11,7 @@ author:
   email: contact@diversityin.tech
 url: "https://diversityin.tech"
 twitter_username: diverseintech
-google_analytics: our-GA-key #TODO!
+google_analytics: UA-173531993-1
 theme: minima
 plugins:
   - jekyll-feed
