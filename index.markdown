@@ -13,6 +13,9 @@ layout: home
 </a>
 <br/>
 
+<h1>or use the <a href="https://www.spreaker.com/show/4499118/episodes/feed">RSS</a> link 🎧</h1>
+<br/>
+
 <h1>Soon available on:</h1>
 
 <a href="">
