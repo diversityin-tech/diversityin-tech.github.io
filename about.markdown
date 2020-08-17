@@ -14,7 +14,7 @@ For all years I've worked hard to be a good **programmer** as if I had been tryi
  
 I also lived in Singapore 🇸🇬 for 1.5 years to **experience** living in a multi-cultural environment and to practice **extreme programming**.
  
-I am proud to be **gay** 🏳️‍🌈.
+I am proud to be **gay** 🏳️‍🌈 and proud to be who I am.
  
 ## What is the podcast about?
 
