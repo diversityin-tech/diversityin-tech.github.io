@@ -8,6 +8,11 @@ layout: home
 
 <h1>Listen on:</h1>
 
+<a href="https://podcasts.apple.com/pl/podcast/diversity-in-tech-by-maciej-piotrowski/id1527808867">
+<img class="center" src="assets/Apple_Podcasts.svg">
+</a>
+<br/>
+
 <a href="https://open.spotify.com/show/20rElBMMpVplDR3elMlBLM?si=JEbwZBd6S_CP5zMgTBZR9Q">
 <img class="center" src="assets/spotify-podcast-badge.svg">
 </a>
@@ -18,10 +23,6 @@ layout: home
 
 <h1>Soon available on:</h1>
 
-<a href="">
-<img class="center" src="assets/Apple_Podcasts.svg">
-</a>
-<br/>
 
 <a href="">
 <img class="center" src="assets/Google_Podcasts.svg">
