@@ -18,14 +18,12 @@ layout: home
 </a>
 <br/>
 
-<h1>or use the <a href="https://www.spreaker.com/show/4499118/episodes/feed">RSS</a> link 🎧</h1>
-<br/>
 
-<h1>Soon available on:</h1>
-
-
-<a href="">
+<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDQ5OTExOC9lcGlzb2Rlcy9mZWVk">
 <img class="center" src="assets/Google_Podcasts.svg">
 </a>
+<br/>
+
+<h1>or use the <a href="https://www.spreaker.com/show/4499118/episodes/feed">RSS</a> link 🎧</h1>
 
 </div>
