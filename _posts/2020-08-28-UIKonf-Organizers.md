@@ -5,7 +5,7 @@ excerpt:
 word: inclusion
 ---
 
-Maciej talks with the team of UIKonf conference organisers - meet Sabine, Julia and Bianca who share their stories about facing challenges of organising a remote conference in the time of COVID-19 pandemic, diversity and inclusion baked into the heart of UIKonf and why they chose to make a difference.
+Maciej talks with the team of UIKonf conference organisers - meet Sabine, Julia and Bianca who share their stories about facing the challenges of organising a remote conference in the time of the COVID-19 pandemic, diversity, and inclusion baked into the heart of UIKonf and why they chose to make a difference.
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/40352158" data-resource="episode_id=40352158" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "Diversity means nothing without inclusion with special guests Sabine Geithner, Julia Kallenberg and Bianca Stromlund" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
 
