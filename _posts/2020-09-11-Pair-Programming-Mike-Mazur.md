@@ -2,7 +2,7 @@
 layout: post
 title: Sharing the experience
 excerpt: 
-word: diversity
+word: diverse
 ---
 
 Maciej talks with his former boss about pair programming which had been deeply integrated into software development workflow in a company they both worked for. Sharing the experience is better than working solo!
