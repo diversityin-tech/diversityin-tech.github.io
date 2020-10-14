@@ -12,7 +12,9 @@ Maciej meets Alex to talk about how the depression changed her view on life and 
 
 ---
 
+DISCLAIMER:
+The Content of this podcast is not intended as a substitute for professional treatment, medical advice, or diagnosis. Always seek the advice of your physician (or another qualified health provider of your choice) with any questions you may have regarding a medical condition.
+
+---
+
 [Alexandra Tomaszewska](https://www.facebook.com/AlexUnchainedYou) - a former Software Engineer and a Confidence Whisperer. You can contact via the [website](https://alextomaszewska.com) and follow her on this Facebook [fanpage](https://www.facebook.com/AlexUnchainedYou).
-
-
-
