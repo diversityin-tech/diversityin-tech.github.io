@@ -17,4 +17,9 @@ The Content of this podcast is not intended as a substitute for professional tre
 
 ---
 
+DISCLAIMER:
+This episode may contain explicit content.
+
+---
+
 [Alexandra Tomaszewska](https://www.facebook.com/AlexUnchainedYou) - a former Software Engineer and a Confidence Whisperer. You can contact via the [website](https://alextomaszewska.com) and follow her on this Facebook [fanpage](https://www.facebook.com/AlexUnchainedYou).
