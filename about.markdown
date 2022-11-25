@@ -27,4 +27,4 @@ Maybe you are like me - a human, scared that is different in a way, feeling lone
 ### In the podcast you will discover stories of people from underrepresented groups in tech and learn from their experience.
  
 ## How to get in touch?
-If you want to propose some guests, take part in the show or just contact me you can do so on <a href="https://twitter.com/diverseintech">Twitter</a> or via <a href="mailto:contact@diversityin.tech">e-mail</a>.
+If you want to get in touch you can DM me on <a href="https://twitter.com/macpiotrowski89">Twitter</a>.
