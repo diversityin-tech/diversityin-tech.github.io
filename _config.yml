@@ -6,10 +6,9 @@ description: >
 minima:
   social_links:
     twitter: diverseintech
-    email: contact@diversityin.tech
 author:
-  email: contact@diversityin.tech
-url: "https://diversityin.tech"
+  email: paciej00@gmail.com
+url: "diversityin-tech.github.io"
 twitter_username: diverseintech
 google_analytics: UA-173531993-1
 theme: minima
